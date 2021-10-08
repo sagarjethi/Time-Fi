@@ -8,7 +8,9 @@ Users:
 
 Product architecture Link: https://whimsical.com/xrp-timefi-TsFahBKrmmqXNTL8GKxMxo
 
-Contract link: 
+VIdeo Link: https://youtu.be/xnQr_3oz9Xw
+
+Hook link: https://github.com/p2pvid/Time-Fi/tree/main/hook
 
 NFT testnet: 
 
