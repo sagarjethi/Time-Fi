@@ -10,9 +10,7 @@ Product architecture Link: https://whimsical.com/xrp-timefi-TsFahBKrmmqXNTL8GKxM
 
 VIdeo Link: https://youtu.be/xnQr_3oz9Xw
 
-Hook link: https://github.com/p2pvid/Time-Fi/tree/main/hook
-
-NFT testnet: 
+Hook link: https://github.com/p2pvid/Time-Fi/tree/main/hook 
 
 Front-end link: https://github.com/p2pvid/Time-Fi/tree/main/frontend
 
