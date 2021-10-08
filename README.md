@@ -6,15 +6,13 @@ Users:
 1. Creators (freelancers, instagram/YouTube influencers/ Developers/ anyone who values thier own time)
 2. Consumers: Anyone who is buying the services of Creators or buying thier time for consultancy or anything.
 
-Product architecture Link: https://whimsical.com/timefi-LTw2KSL25gUnZ2EWdRZaz6
+Product architecture Link: https://whimsical.com/xrp-timefi-TsFahBKrmmqXNTL8GKxMxo
 
-Contract link: https://viewblock.io/zilliqa/tx/7b55897077ab47b7580a9c52bb558ed894ab478f1349b69608ce8fd378fd08c8?network=testnet
+Contract link: 
 
-NFT testnet: https://devex.zilliqa.com/tx/09367ccaf189f84a6b7ddd958918d82cbbe7cd8ab8375d048e0f3f815bcf8f1e?network=https://dev-api.zilliqa.com
+NFT testnet: 
 
-Bonding Curve Contract: https://github.com/p2pvid/TimeFi/blob/main/contracts/BondingCurve.scilla
-
-Front-end link: https://github.com/p2pvid/TimeFi/tree/main/frontend
+Front-end link: https://github.com/p2pvid/Time-Fi/tree/main/frontend
 
 
 
@@ -34,7 +32,7 @@ Front-end link: https://github.com/p2pvid/TimeFi/tree/main/frontend
 ##  ****Solution****
 
 
-A decentralised P2P platform to reduce the barrier between creator and consumer on Zil ecosystem.
+A decentralised P2P platform to reduce the barrier between creator and consumer on XRPL ecosystem.
 
 
 • It will have the power to create its own token.
@@ -51,13 +49,13 @@ Bonus: Creator token will be the function of the value they are putting in the e
 ##  ****How it Works****
 
 
-• Creator comes on TimeFi and login via Zilpay
+• Creator comes on TimeFi and login via XRP Wallet
 
 • Creators create their own token.
 
 • Creator give persmission for bonding curve .(Its optional)
 
-• Creator list thier token on zil based DEX.
+• Creator list thier token on XRPL based DEX.
 
 • User can buy those token from any exchange.
 
@@ -67,7 +65,7 @@ Bonus: Creator token will be the function of the value they are putting in the e
 
 
 # Next Steps
-- Apply for Zilhive
+- Apply for grants
 - Push Project on main-net.
 
 
