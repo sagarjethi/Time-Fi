@@ -1,0 +1,68 @@
+{
+  "name": "cali-ts",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@date-io/luxon": "^0.0.2",
+    "@hocs/debounce-handler": "^0.5.0",
+    "@material-ui/core": "^3.1.2",
+    "@material-ui/icons": "^3.0.1",
+    "@types/date-fns": "^2.6.0",
+    "@types/react-dom": "^16.0.11",
+    "@types/react-redux": "^6.0.11",
+    "@types/react-router-dom": "^4.3.1",
+    "@types/recompose": "^0.30.2",
+    "@types/redux": "^3.6.0",
+    "@types/styled-components": "^4.1.4",
+    "axios": "^0.18.0",
+    "classnames": "^2.2.6",
+    "date-fns": "^1.30.1",
+    "formik": "^1.4.2",
+    "formik-material-ui": "^0.0.12",
+    "hocs": "^0.0.0",
+    "lodash": "^4.17.11",
+    "luxon": "^1.9.0",
+    "material-ui-pickers": "^2.0.5",
+    "polished": "^2.3.3",
+    "prop-types": "^15.6.2",
+    "react": "^16.5.2",
+    "react-app-rewire-hot-loader": "^1.0.3",
+    "react-app-rewired": "^1.6.2",
+    "react-dom": "^16.5.2",
+    "react-hot-loader": "^4.3.11",
+    "react-redux": "^5.0.7",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "^2.1.2",
+    "recharts": "^1.3.2",
+    "redux": "^4.0.0",
+    "styled-components": "^4.1.3",
+    "styled-media-query": "^2.0.2",
+    "typescript": "^3.2.2",
+    "yup": "^0.26.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "@storybook/addon-actions": "^3.4.11",
+    "@storybook/addon-links": "^3.4.11",
+    "@storybook/addons": "^3.4.11",
+    "@storybook/react": "^3.4.11",
+    "babel-core": "^6.26.3",
+    "babel-runtime": "^6.26.0",
+    "eslint": "5.6.0"
+  }
+}
