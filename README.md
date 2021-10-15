@@ -70,7 +70,7 @@ Bonus: Creator token will be the function of the value they are putting in the e
 
 ##  ****Screeshot****
 
-![Screenshot from 2021-10-08 23-03-02](https://user-images.githubusercontent.com/77237676/136579946-0954856b-c331-4100-9e14-c6494262c283.png)
+![Screenshot from 2021-10-16 03-43-26](https://user-images.githubusercontent.com/77237676/137546038-7661fe3e-40ce-4ba4-9822-748c03dec789.png)
 
 ![Screenshot from 2021-06-13 16-41-09](https://user-images.githubusercontent.com/77237676/121801103-2ab37080-cc68-11eb-8133-4c2df0d145ca.png)
 ![Screenshot from 2021-06-13 16-41-00](https://user-images.githubusercontent.com/77237676/121801110-330bab80-cc68-11eb-9f1d-c3560edb0b75.png)
