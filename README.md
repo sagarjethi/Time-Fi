@@ -6,11 +6,10 @@ Users:
 1. Creators (freelancers, instagram/YouTube influencers/ Developers/ anyone who values thier own time)
 2. Consumers: Anyone who is buying the services of Creators or buying thier time for consultancy or anything.
 
-Product architecture Link: https://whimsical.com/xrp-timefi-TsFahBKrmmqXNTL8GKxMxo
+Product architecture Link: https://whimsical.com/solana-timefi-TsFahBKrmmqXNTL8GKxMxo
 
-VIdeo Link: https://youtu.be/xnQr_3oz9Xw
+VIdeo Link: 
 
-Hook link: https://github.com/p2pvid/Time-Fi/tree/main/hook 
 
 Front-end link: https://github.com/p2pvid/Time-Fi/tree/main/frontend
 
@@ -32,7 +31,7 @@ Front-end link: https://github.com/p2pvid/Time-Fi/tree/main/frontend
 ##  ****Solution****
 
 
-A decentralised P2P platform to reduce the barrier between creator and consumer on XRPL ecosystem.
+A decentralised P2P platform to reduce the barrier between creator and consumer on Solana ecosystem.
 
 
 • It will have the power to create its own token.
@@ -49,13 +48,13 @@ Bonus: Creator token will be the function of the value they are putting in the e
 ##  ****How it Works****
 
 
-• Creator comes on TimeFi and login via XRP Wallet
+• Creator comes on TimeFi and login via Solana Wallet
 
 • Creators create their own token.
 
 • Creator give persmission for bonding curve .(Its optional)
 
-• Creator list thier token on XRPL based DEX.
+• Creator list thier token on Solana based DEX.
 
 • User can buy those token from any exchange.
 
